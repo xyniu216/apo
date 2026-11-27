@@ -57,7 +57,7 @@ Main-text Figures 1–5, Supporting Figures S1–S4, and the graphical abstract 
 ## License and citation
 
 - Data and figures: CC BY 4.0. Code: MIT.
-- If you use this package, please cite the manuscript (DOI to be added upon acceptance) and this dataset (Zenodo DOI, to be minted on upload).
+- If you use this package, please cite the manuscript (DOI to be added upon acceptance) and this dataset (Zenodo: https://doi.org/10.5281/zenodo.24574731).
 
 *Correspondence: Yonge Feng, College of Science, Inner Mongolia Agricultural University, Hohhot 010018, PR China. E-mail: yefeng@imau.edu.cn.*
 

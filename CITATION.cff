@@ -11,10 +11,10 @@ title: "Benchmark data, residue-wise displacement labels, and preregistered prot
 version: 1.0.0
 date-released: "2026-11-27"
 license: CC-BY-4.0
-url: "[Zenodo URL to be filled after upload]"
+url: "https://github.com/xyniu216/apo"
 identifiers:
   - type: doi
-    value: "[Zenodo DOI to be filled after upload]"
+    value: "10.5281/zenodo.24574731"
 keywords:
   - apo structures
   - protein binding interfaces
