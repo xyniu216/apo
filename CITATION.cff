@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Dataset accompanying the JCIM manuscript on the computable boundary of induced fit."
+authors:
+  - family-names: Niu
+    given-names: Xiaoyu
+    affiliation: "College of Science, Inner Mongolia Agricultural University, Hohhot 010018, PR China"
+  - family-names: Feng
+    given-names: Yonge
+    affiliation: "College of Science, Inner Mongolia Agricultural University, Hohhot 010018, PR China"
+title: "Benchmark data, residue-wise displacement labels, and preregistered protocols for apo-structure interface localization and residue plasticity ranking"
+version: 1.0.0
+date-released: "2026-11-27"
+license: CC-BY-4.0
+url: "[Zenodo URL to be filled after upload]"
+identifiers:
+  - type: doi
+    value: "[Zenodo DOI to be filled after upload]"
+keywords:
+  - apo structures
+  - protein binding interfaces
+  - induced fit
+  - residue plasticity
+  - PeSTo
+  - preregistered protocols
+contact:
+  - email: yefeng@imau.edu.cn
+    affiliation: "College of Science, Inner Mongolia Agricultural University"
